@@ -10,3 +10,6 @@ venv*/
 .python-version
 build/
 dist/
+
+# CodeBeaver reports and artifacts
+.codebeaver
